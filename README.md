@@ -38,4 +38,5 @@ the government started the vaccination campaign with Pfizer in December without 
 
 ![Second-Dose](Images/second-dose.png)
 -
+<img src="Images/first-dose.png" width="750" >
 <img src="Images/second-dose.png" width="750" >
