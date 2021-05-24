@@ -34,9 +34,6 @@ the government started the vaccination campaign with Pfizer in December without 
 ![Moderna](Images/Moderna.png)
 - the government began Moderna AstraZeneca in January with few doses, since February they prioritized the group of 80 to 89 years and in the middle of March also prioritize the group of 70 to 79 years.
 
-![First-Dose](Images/first-dose.png)
-
-![Second-Dose](Images/second-dose.png)
--
 <img src="Images/first-dose.png" width="750" >
+-
 <img src="Images/second-dose.png" width="750" >
