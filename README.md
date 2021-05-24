@@ -1,4 +1,4 @@
-* [Italy_vaccination_campaign](#Italy_vaccination_campaign)
+Italy vaccination campaign
 
 Table of Content
 ================
