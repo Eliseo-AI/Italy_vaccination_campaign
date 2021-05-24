@@ -12,8 +12,6 @@ Table of Content
   * [Credits](#credits)
   * [Licensing](#licensing)
 
-# Italy_vaccination_campaign
-
 ## Description
 
 
