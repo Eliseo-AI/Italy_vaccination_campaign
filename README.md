@@ -5,25 +5,21 @@ Table of Content
   * [Description](#description)
   * [Files](#files)
   * [Process](#process)
-   * [Research Question](#Research-Question)
-   * [Hyphotesys](#Hyphotesys)
-   * [Results](#results)
+  * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
   * [Licensing](#licensing)
 
 ## Description
-
-
+This is an analysis of the vaccination campaign against covid-19 in Italy that began in 2020, it is using three different types of vaccines, which need two doses to be effective, also have different times between the first dose and the second, likewise, their availability and quantities are different.
+the first is for minors.
 ## Files
   
 ## Process
 
-## Research Question
-
 
 ## Results
-
+The graphs presented were divided into the first three by the types of vaccines and the following will be comparative in the doses.
 ![Pfizer](Images/Pfizer.png)
 - There are nine age groups, with three types of vaccines. 
 the government started the vaccination campaign with Pfizer in December without major differences in age groups. In February, it prioritized the group from 80 to 89 years old with a clear difference.
