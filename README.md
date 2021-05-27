@@ -4,7 +4,7 @@ Table of Content
 ================
   * [Description](#description)
   * [Files](#files)
-  * [Process](#process)
+  * [Dataset](#dataset)
   * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
@@ -21,10 +21,34 @@ For this project, one downloaded file was used in the direction given above,
 
 *Italian vaccine campaign Date (December 27, 2020 to april 8, 2021) https://www.kaggle.com/arthurio/italian-vaccination
 
-shape (31643, 19)
+## Dataset
 
-## Process
+the file contains information by groups of vaccinated people grouped by date and company supplier of the vaccine, It does not have individual registers that allow for groupal analysis, for example combining gender and age.
 
+shape (31643, 22)
+
+* Administration date: date of the vaccine administration
+* Vaccine supplier: Pfizer, Astrazeneca and Moderna
+* Region: abbreviation of the Italian region
+* Age range: age group
+* Number of males: number of vaccinated males
+* Number of females: number of vaccinated females
+* Number of healthcare workers: number of vaccinated healthcare workers
+* Number of non-healthcare workers: number of vaccinated non-healthcare workers
+* Care home patients: number of vaccinated care home patients
+* Number of 60-69 people: number of vaccinated people aged 60-69
+* Number of 70-79 people: number of vaccinated people aged 70-79
+* Number of over 80: number of vaccinated people aged 80+
+* Armed forces: number of vaccinated military personnel
+* School staff: number of the vaccinated school staff
+* Vulnerable subjects: number of vaccinated vulnerable subjects
+* Others: number of vaccinated people from other categories
+* First dose: number of administered first vaccine doses
+* Second dose: number of administered second vaccine doses
+* NUTS1 code: European code for major socio-economic regions
+* NUTS2 code: European code for basic regions for the application of regional policies
+* ISTAT code: region code by Italian National Institute of Statistics
+* Region name: full name of Italian regions
 
 ## Results
 The graphs presented were divided into the first three by the types of vaccines and the following will be comparative in the doses.
