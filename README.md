@@ -11,7 +11,8 @@ Table of Content
   * [Licensing](#licensing)
 
 ## Description
-This is an analysis of the vaccination campaign against covid-19 in Italy that began in 2020, it is using three different types of vaccines, which need two doses to be effective, also have different times between the first dose and the second, likewise, their availability and quantities are different.
+This is a project developed at the CRI Université de Paris in the second semester of the Master of Digital Science, within the "Challenge Hub" program.
+The project is an analysis of the vaccination campaign against covid-19 in Italy that began in 2020, it is using three different types of vaccines, which need two doses to be effective, also have different times between the first dose and the second, likewise, their availability and quantities are different.
 The age groups are eight, the first is made up of young people between 16 and 19 years old, the following groups are for ten years up to 89 years and the last one is ninety or more years.
 
 ## Files
