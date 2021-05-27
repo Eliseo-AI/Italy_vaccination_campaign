@@ -45,11 +45,11 @@ If you use pip, you can install:
 
    * pip install pandas
    * pip install seaborn
-
+   * pip install numpy
+   
 ## Credits
 The analysis of the dataset was carried out by Eliseo B.
 the file is in jupiternotebook format ".pynb"
 
 ## Licensing
  MIT License, Eliseo Baquero 2021
-   * pip install numpy
