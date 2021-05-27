@@ -16,7 +16,13 @@ The project is an analysis of the vaccination campaign against covid-19 in Italy
 The age groups are eight, the first is made up of young people between 16 and 19 years old, the following groups are for ten years up to 89 years and the last one is ninety or more years.
 
 ## Files
-  
+
+For this project, one downloaded file was used in the direction given above, 
+
+*Italian vaccine campaign Date (December 27, 2020 to april 8, 2021) https://www.kaggle.com/arthurio/italian-vaccination
+
+shape (31643, 19)
+
 ## Process
 
 
