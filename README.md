@@ -13,6 +13,7 @@ Table of Content
 ## Description
 This is an analysis of the vaccination campaign against covid-19 in Italy that began in 2020, it is using three different types of vaccines, which need two doses to be effective, also have different times between the first dose and the second, likewise, their availability and quantities are different.
 The age groups are eight, the first is made up of young people between 16 and 19 years old, the following groups are for ten years up to 89 years and the last one is ninety or more years.
+
 ## Files
   
 ## Process
@@ -31,3 +32,24 @@ The graphs presented were divided into the first three by the types of vaccines 
 
 <img src="Images/first-dose.png" width="750" >
 <img src="Images/second-dose.png" width="750" >
+
+## Installation guide
+
+If you use conda, you can install: 
+
+   * conda install pandas
+   * conda install seaborn
+   * conda install numpy
+
+If you use pip, you can install: 
+
+   * pip install pandas
+   * pip install seaborn
+
+## Credits
+The analysis of the dataset was carried out by Eliseo B.
+the file is in jupiternotebook format ".pynb"
+
+## Licensing
+ MIT License, Eliseo Baquero 2021
+   * pip install numpy
