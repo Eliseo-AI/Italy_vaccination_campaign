@@ -67,19 +67,19 @@ shape (31643, 22)
 ## Results
 The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders. female in the total doses applied by each supplier.
 
-![Pfizer](images/pfizer.png)
-
 ![pfizer](images/pfizer.png)
 - the italian government started the vaccination campaign with Pfizer in December without major differences in age groups. In February, it prioritized the group from 80 to 89 years old with a clear difference. In the evaluated period and without making a difference between the first and second doses, the total of the pfizer vaccine reached a peak of 120,000 doses in one day.
 
 ![Astrazeneca](images/astrazeneca.png)
-- The italian government began AstraZeneca campaign with very few doses in January and in February, with greater availability, a prioritization of four groups of people began between 20 and 29 years old, between 30 and 39 years old, between 40 and 49 years old, and finally between 50 and 59 years old, until the middle of March, then it prioritized the group of 70 to 79 years. In the evaluated period and without making a difference between the first and second doses, the total of the AstraZeneca vaccine reached a peak of about 50,000 doses in one day.
+- The Italian government started the AstraZeneca campaign with very few doses in January and in February, with greater availability, a prioritization of four groups of people between 20 and 29 years old, between 30 and 39 years old, between 40 and 49 years old, and finally between 50 and 59 years old, that happened until mid-March, then the group from 70 to 79 years old was prioritized until April, in that same month a policy change with this vaccine is seen since the vaccinated people are from the group from 60 to 69, ending the month of April and beginning May, people from other age groups are vaccinated again, in this case the four groups under 50 years of age.
+In the evaluated period and without differentiating between the first and second doses, the total of the AstraZeneca vaccine reached a peak of about 80,000 doses in one day for the group aged 70 to 79 years.
 
 ![Moderna](images/moderna.png)
-- the government began Moderna AstraZeneca in January with few doses, since February they prioritized the group of 80 to 89 years and in the middle of March also prioritize the group of 70 to 79 years. In the evaluated period and without making a difference between the first and second doses, the total of the Modern vaccine reaching a peak of about 14,000 doses in one day, this is the vaccine with the least availability and therefore the least application within the population.
+- The government started Moderna AstraZeneca in January with few doses, since February they prioritized the group from 80 to 89 years old and in mid-March they also prioritized the group from 70 to 79 years old, also the group of people over 90 years old is included in the prioritization, in The same measure shows that the group from 60 to 69 has an increase between April and May, the performance in the month of May of the group between 50 and 59 years old with which the highest number of vaccines is achieved in an age group exceeds for this vaccine with about 20,000 doses in one day.
 
 ![janssen](images/janssen.png)
-- the government began Moderna AstraZeneca in January with few doses, since February they prioritized the group of 80 to 89 years and in the middle of March also prioritize the group of 70 to 79 years. In the evaluated period and without making a difference between the first and second doses, the total of the Modern vaccine reaching a peak of about 14,000 doses in one day, this is the vaccine with the least availability and therefore the least application within the population.
+- The janssen vaccine is the one that takes the longest to be applied, it begins in the month of April with the group of 70 to 79 years, in the middle of that month the group of 60 to 69 years is included and ending the month of April it is includes the group from 50 to 59 years, the peak of vaccination by age group is the one from 60 to 69, reaching about 15,000 doses.
+in mid-May, groups of under 50 years of age began to be vaccinated in smaller quantities.
 
 ![first](images/first_dose.png)
 ![second](images/second_dose.png)
