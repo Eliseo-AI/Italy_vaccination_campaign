@@ -97,7 +97,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 - This is the distribution of the population to which the two doses of the vaccines of: pfizer, Astrazeneca and modern were applied, Janssen is not included due to its small number and only need a single dose, more than half of the population has at least 70 years, which reaffirms that the oldest population has been prioritizing.
 
 ## Discussion
-- It remains to be analyzed if the vaccination had problems by region, if the youngest population group that includes minors should have been vaccinated in the first months and instead, the group over 90 years old should have been the priority or if the health personnel had to be vaccinated even faster.
+- It remains to be analyzed if the vaccination had problems by region, if the youngest population group that includes minors should have been vaccinated in the first months and instead, the group over 90 years old should have been the priority or if the health personnel had to be vaccinated even faster. One point that is identified with all vaccines is that they have ups and downs in the number of vaccines applied, so determining which days the vaccination rate is lowered would be part of a new analysis.
 
 ## Credits
 - The analysis of the dataset was carried out by Eliseo B.
