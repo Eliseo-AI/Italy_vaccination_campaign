@@ -67,7 +67,7 @@ shape (31643, 22)
 ## Results
 The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders in the total doses applied by each supplier.
 ![doses](images/Doses.png)
-Total doses 31.549.071 applied until 25th may
+- Total doses applied 31,549,071 until May 25 of the four vaccines.
 
 ![pfizer](images/pfizer.png)
 - the italian government started the vaccination campaign with Pfizer in December without major differences in age groups. In February, it prioritized the group from 80 to 89 years old with a clear difference. In the evaluated period and without making a difference between the first and second doses, the total of the pfizer vaccine reached a peak of 120,000 doses in one day.
