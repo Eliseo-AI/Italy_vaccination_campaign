@@ -87,7 +87,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
   
 ![females](images/females.png)
 ![males](images/males.png)
-- The graphs seem identical at first glance, but present differences in some periods, which indicates that at some moments of the vaccination campaign, the female population has benefited more.
+- The graphics appear identical at first glance, but they present differences in some periods, For example, in December when the campaign begins, more women are vaccinated with Pfizer, This becomes evident again at the end of January and the beginning of February, where the difference is significant, with the other three vaccines the differences are very few, which indicates that gender differences have not been accounted for into account within the vaccination campaign.
 
 ## Discussion
 
