@@ -66,6 +66,7 @@ shape (31643, 22)
 
 ## Results
 The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders in the total doses applied by each supplier.
+![doses](images/Doses.png)
 Total doses 31.549.071 applied until 25th may
 
 ![pfizer](images/pfizer.png)
@@ -89,6 +90,9 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 ![females](images/females.png)
 ![males](images/males.png)
 - The graphics appear identical at first glance, but they present differences in some periods, For example, in December when the campaign begins, more women are vaccinated with Pfizer, This becomes evident again at the end of January and the beginning of February, where the difference is significant, with the other three vaccines the differences are very few, which indicates that gender differences have not been accounted for into account within the vaccination campaign.
+
+![age_range](images/age_range.png)
+- This is the distribution of the population to which the two doses of the vaccines of: pfizer, Astrazeneca and modern were applied, Janssen is not included due to its small number and only need a single dose, more than half of the population has at least 70 years, which reaffirms that the oldest population has been prioritizing.
 
 ## Discussion
 
