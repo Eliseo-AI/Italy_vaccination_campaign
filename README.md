@@ -98,8 +98,9 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 - It remains to be analyzed if the vaccination had problems by region, if the youngest population group that includes minors should have been vaccinated in the first months and instead, the group over 90 years old should have been the priority or if the health personnel had to be vaccinated even faster.
 
 ## Credits
-The analysis of the dataset was carried out by Eliseo B.
-the file is in jupiternotebook format ".pynb"
+- The analysis of the dataset was carried out by Eliseo B.
+- the file is in jupiternotebook format 
+- "Italian-Campaign.pynb"
 
 ## Licensing
  MIT License, Eliseo Baquero 2021
