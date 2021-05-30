@@ -7,6 +7,7 @@ Table of Content
   * [Files](#files)
   * [Dataset](#dataset)
   * [Results](#results)
+  * [Discussion](#discussion)
   * [Credits](#credits)
   * [Licensing](#licensing)
 
@@ -86,7 +87,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 
 ![first](images/first_dose.png)
 ![second](images/second_dose.png)
-- In these two graphs you can see the comparison between the two doses of the vaccines, in the case of pfizer the shortage is seen and therefore the decision is made between half of January and the first week of February not to apply more first due to a period in which the second dose is given priority, the case of AstraZeneca shows that it has a period of interruption in the month of March due to the doubts that arose with the vaccine and the application of second doses showing the difference in the times with Regarding the other vaccines, the third is the modern vaccine, this sample that in the second week of March they begin to have greater availability and their application increases both in the first dose and in the second dose at the same time.
+- In these two graphs you can see the comparison between the two doses of the vaccines, in the case of pfizer the shortage is seen and therefore the decision is made between half of January and the first week of February not to apply more first due to a period in which the second dose is given priority, the case of AstraZeneca shows that it has a period of interruption in the month of March due to the doubts that arose with the vaccine and the application of second doses showing the difference in the times with Regarding the other vaccines, the third is the modern vaccine, this sample that in the second week of March they begin to have greater availability and their application increases both in the first dose and in the second dose at the same time, finally, the janssen vaccine has very small numbers compared to the other three vaccines..
   
 ![females](images/females.png)
 ![males](images/males.png)
