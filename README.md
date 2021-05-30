@@ -65,8 +65,8 @@ shape (31643, 22)
 * Region name: full name of Italian regions
 
 ## Results
-The graphs presented were divided into the first three by the types of vaccines and the following will be comparative in the doses.
-![Pfizer](Images/pfizer.png)
+The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders. female in the total doses applied by each supplier.
+![Pfizer](images/pfizer.png)
 - the italian government started the vaccination campaign with Pfizer in December without major differences in age groups. In February, it prioritized the group from 80 to 89 years old with a clear difference. In the evaluated period and without making a difference between the first and second doses, the total of the pfizer vaccine reached a peak of 120,000 doses in one day.
 
 ![Astrazeneca](images/astrazeneca.png)
@@ -84,8 +84,8 @@ The graphs presented were divided into the first three by the types of vaccines 
   
 ![females](images/females.png)
 ![males](images/males.png)
+- The graphs seem identical at first glance, but present differences in some periods, which indicates that at some moments of the vaccination campaign, the female population has benefited more.
 
-  
 ## Discussion
 
 
