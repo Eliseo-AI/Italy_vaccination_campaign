@@ -39,7 +39,7 @@ For this project, one downloaded file was used in the direction given above,
 
 the file contains information by groups of vaccinated people grouped by date and company supplier of the vaccine, It does not have individual registers that allow for groupal analysis, for example combining gender and age.
 
-shape (31643, 22)
+shape (57618, 22)
 
 * Administration date: date of the vaccine administration
 * Vaccine supplier: Pfizer, Astrazeneca and Moderna
@@ -95,7 +95,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 - This is the distribution of the population to which the two doses of the vaccines of: pfizer, Astrazeneca and modern were applied, Janssen is not included due to its small number and only need a single dose, more than half of the population has at least 70 years, which reaffirms that the oldest population has been prioritizing.
 
 ## Discussion
-
+- It remains to be analyzed if the vaccination had problems by region, if the youngest population group that includes minors should have been vaccinated in the first months and instead, the group over 90 years old should have been the priority or if the health personnel had to be vaccinated even faster.
 
 ## Credits
 The analysis of the dataset was carried out by Eliseo B.
