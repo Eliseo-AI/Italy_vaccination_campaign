@@ -10,6 +10,7 @@ Table of Content
   * [Discussion](#discussion)
   * [Credits](#credits)
   * [Licensing](#licensing)
+  * [Authors](#Authors)
 
 ## Description
 This is a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science, within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
@@ -105,5 +106,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 - "Italian-Campaign.pynb"
 
 ## Licensing
- MIT License, Eliseo Baquero 2021
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Authors:
+* **Eliseo Baquero** [@Eli-2020](https://github.com/Eli-2020)
