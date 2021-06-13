@@ -106,3 +106,4 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 
 ## Licensing
  MIT License, Eliseo Baquero 2021
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
