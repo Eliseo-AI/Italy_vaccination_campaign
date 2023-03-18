@@ -1,7 +1,7 @@
-Italy Vaccination Campaign
-================
+
 Table of Content
 ================
+* [Italy Vaccination Campaign](# Italy Vaccination Campaign)
   * [Description](#description)
   * [Installation guide](#installation-guide)
   * [Files](#files)
@@ -11,6 +11,7 @@ Table of Content
   * [Credits](#credits)
   * [Licensing](#licensing)
   * [Authors](#Authors)
+# Italy Vaccination Campaign
 
 ## Description
 This is a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science, within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
