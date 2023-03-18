@@ -102,7 +102,7 @@ in mid-May, groups of under 50 years of age began to be vaccinated in smaller qu
 - It remains to be analyzed if the vaccination had problems by region, if the youngest population group that includes minors should have been vaccinated in the first months and instead, the group over 90 years old should have been the priority or if the health personnel had to be vaccinated even faster. One point that is identified with all vaccines is that they have ups and downs in the number of vaccines applied, so determining which days the vaccination rate is lowered would be part of a new analysis.
 
 ## Credits
-- The analysis of the dataset was carried out by Eliseo B.
+- The analysis of the dataset was carried out by **Eliseo Baquero** [@Eli-2020]
 - the file is in jupiternotebook format 
 - "Italian-Campaign.pynb"
 
